@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_fragment1">Set timer</string>
+    <string name="default_time">00:00</string>
+    <string name="zero">0</string>
+    <string name="colon">:</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="set_time">Time setting</string>
+    <string name="Timer">Timer</string>
+</resources>

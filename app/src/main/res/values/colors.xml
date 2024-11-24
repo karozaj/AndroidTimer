@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="jet">#2E2F2F</color>
+    <color name="azure">#CDDDDD</color>
+    <color name="rich_black">#051014</color>
+</resources>
